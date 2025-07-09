@@ -33,3 +33,6 @@ False
 Explanation 0
 
 1990 is not a multiple of 4 hence it's not a leap year.
+--------
+
+ref: [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)
