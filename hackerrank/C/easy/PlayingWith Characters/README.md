@@ -9,4 +9,4 @@
 
 <b> • Nivel </b>: easy
 ##
-<b> Link </b>: https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true
+<b> Link </b>: [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true)
